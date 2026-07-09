@@ -1,6 +1,6 @@
-import "./Certificates.css";
+import "./certificates.css";
 
-function Certificates() {
+function certificates() {
 
   const certificates = [
     {
