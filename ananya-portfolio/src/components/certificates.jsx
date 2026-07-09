@@ -1,4 +1,4 @@
-import "./certificates.css";
+import "./Certificates.css";
 
 function certificates() {
 
